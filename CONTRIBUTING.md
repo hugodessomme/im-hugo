@@ -1,6 +1,6 @@
 # Contributing Guide
 
-Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [<PROJECT_URL>](PROJECT_URL) :sparkles:.
+Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [https://im-hugo.vercel.app/](https://im-hugo.vercel.app/) :sparkles:.
 
 Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
 
@@ -20,15 +20,15 @@ To get an overview of the project, read the [README](README.md). Here are some r
 
 ### Fork the repository
 
-Fork the project [on GitHub](PROJECT_REPOSITORY)
+Fork the project [on GitHub](https://github.com/hugodessomme/im-hugo)
 
 ### Clone the project
 
 Clone your fork locally. Do not clone the original repository unless you plan to become a long-term contributor and have been given permission to do so.
 
 ```shell
-git clone <PROJECT_REPOSITORY>
-cd skateshop
+git clone https://github.com/hugodessomme/im-hugo.git
+cd im-hugo
 ```
 
 ### Install dependencies
@@ -77,13 +77,13 @@ When you're finished with the changes, create a pull request, also known as a PR
 
 #### Create a new issue
 
-If you spot a problem in the codebase that you believe needs to be fixed, or you have an idea for a new feature, take a look at the [Issues](<PROJECT_REPOSITORY>/issues).
+If you spot a problem in the codebase that you believe needs to be fixed, or you have an idea for a new feature, take a look at the [Issues](https://github.com/hugodessomme/im-hugo/issues).
 
-If you can't find an open issue addressing the problem, [open a new one](<PROJECT_REPOSITORY>/issues/new). Be sure to include a title and clear description, as much relevant information as possible, and a code sample or an executable test case demonstrating the expected behavior that is not occurring.
+If you can't find an open issue addressing the problem, [open a new one](https://github.com/hugodessomme/im-hugo/issues/new). Be sure to include a title and clear description, as much relevant information as possible, and a code sample or an executable test case demonstrating the expected behavior that is not occurring.
 
 #### Solve an issue
 
-Scan through our [existing issues](<PROJECT_REPOSITORY>/issues) to find one that interests you. You can narrow down the search using `labels` and `projects` to find issues that need attention.
+Scan through our [existing issues](https://github.com/hugodessomme/im-hugo/issues) to find one that interests you. You can narrow down the search using `labels` and `projects` to find issues that need attention.
 
 Then, fork the repository, create a branch, and make your changes.
 
@@ -93,7 +93,7 @@ Finally, open a pull request with the changes.
 
 Congratulations :tada::tada: The GitHub team thanks you :sparkles:.
 
-Once your PR is merged, your contributions will be publicly visible on [IM Agency](PROJECT_REPOSITORY).
+Once your PR is merged, your contributions will be publicly visible on [IM Hugo](https://github.com/hugodessomme/im-hugo).
 
 ### Credits
 

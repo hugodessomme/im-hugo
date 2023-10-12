@@ -1,26 +1,51 @@
-# IM Boilerplate
+# [IM Hugo](https://im-hugo.vercel.app/)
 
-This is an open source boilerplate to quickly set up any new project with Next.js 13. It is bootstrapped with `create-next-app`.
+<PROJECT_DESCRIPTION>. It is bootstrapped with `create-next-app`.
 
-## Usage
+[![IM Hugo](./public/images/screenshot.jpg)](https://im-hugo.vercel.app/)
+Photo by [Nasa](https://unsplash.com/@nasa?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash>) • Licensed under [Unsplash License](https://unsplash.com/license)
+
+## Tech Stack
+
+- **Framework:** [Next.js](https://nextjs.org)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com)
+- **ORM:** [Prisma](https://www.prisma.io/)
+
+## Features to be implemented
+
+- [ ] Landing
+- [ ] Emails with [Resend](https://resend.com/)
+
+## Running Locally
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/hugodessomme/im-boilerplate.git
+git clone https://github.com/hugodessomme/im-hugo.git
 ```
 
-2. Check for updates and install them
+2. Install dependencies using npm
 
 ```bash
-npx npm-check-updates
-npx npm-check-updates -u
+npm install
 ```
 
-3. Edit each `<PROJECT_*>` token (e.g. `<PROJECT_URL>`) in the `CONTRIBUTING.md`, `LICENSE.md` and `README.example.md`
-
-4. Copy the `README.example.md` to `README.md`, delete the `README.example.md`, _et voilà_ :sparkles:
+3. Copy the `.env.example` to `.env` and update the variables.
 
 ```bash
-cp README.example.md README.md && rm README.example.md
+cp .env.example .env
 ```
+
+4. Start the development server
+
+```bash
+npm run dev
+```
+
+## Contributing
+
+Contributions are welcome! Please open an issue if you have any questions or suggestions. Your contributions will be acknowledged. See the [contributing guide](./CONTRIBUTING.md) for more information.
+
+## License
+
+Licensed under the MIT License. Check the [LICENSE](./LICENSE.md) file for details.
